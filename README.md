@@ -4,6 +4,6 @@ In recent years, I really wanted to find a job that I would like. In the spring 
 
 I found myself in programming, because it makes me constantly learn new things, reason, generally become smarter and work on myself.
 
-↪️✌️ [́[My resume](https://github.com/Trusted/certificates/blob/mail/CV_Python Developer_Kushnazarov_Rustam.pdf)  
-The easiest way to contact me is via [Telegram](https://t.me/rustamkushnazarov Telegram).  
+↪️✌️ [My resume](https://github.com/Rust-it/certificates/blob/main/CV_PythonDeveloper_Kushnazarov_Rustam.pdf)
+The easiest way to contact me is via [Telegram](https://t.me/rustamkushnazarov "Telegram").
 📫 E-mail: [i@rustaam.ru](mailto:i@rustaam.ru)

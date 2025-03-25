@@ -1,9 +1,9 @@
 ## Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-In recent years, I really wanted to find a job that I would like. In the spring of 2024, I finally decided to start studying programming. My journey began with the book "Simple Python" by Bill Lubanovich.
+In recent years, I’ve been eager to find a job that truly aligns with my passions. In the spring of 2024, I finally decided to pursue programming, starting with Bill Lubanovic’s book "Introducing Python".
 
-I found myself in programming, because it makes me constantly learn new things, reason, generally become smarter and work on myself.
+Programming has become a calling for me. It challenges me to learn constantly, think critically, and grow both intellectually and personally.
 
-↪️✌️ [My resume](https://github.com/Rust-it/certificates/blob/main/CV_PythonDeveloper_Kushnazarov_Rustam.pdf)  
-📩 The easiest way to contact me is via [Telegram](https://t.me/rustamkushnazarov "Telegram").  
-📫 E-mail: [i@rustaam.ru](mailto:i@rustaam.ru)
+📄 [Resume](https://github.com/Rust-it/certificates/blob/main/CV_PythonDeveloper_Kushnazarov_Rustam.pdf "Resume")  
+📩 **Telegram:** Easiest way to reach me [@rustamkushnazarov](https://t.me/rustamkushnazarov "Telegram")  
+📫 **Email:** [i@rustaam.ru](mailto:i@rustaam.ru "Email")

@@ -4,6 +4,6 @@ In recent years, I’ve been eager to find a job that truly aligns with my passi
 
 Programming has become a calling for me. It challenges me to learn constantly, think critically, and grow both intellectually and personally.
 
-📄 [Resume](https://github.com/Rust-it/certificates/blob/main/CV_PythonDeveloper_Kushnazarov_Rustam.pdf "Resume")  
+📄 [Resume](https://github.com/Rust-it/certificates/blob/main/Resume_Python_Developer_Kushnazarov_Rustam.pdf "Resume")  
 📩 **Telegram:** Easiest way to reach me [@rustamkushnazarov](https://t.me/rustamkushnazarov "Telegram")  
 📫 **Email:** [i@rustaam.ru](mailto:i@rustaam.ru "Email")
